@@ -16,6 +16,7 @@ Clone the repo and open in Android Studio Giraffe+.
 
 ```bash
 git clone https://github.com/PeterDanh/github-user-browser-android.git
+```
 
 ## ⚠️ Intellectual Property Notice
 
